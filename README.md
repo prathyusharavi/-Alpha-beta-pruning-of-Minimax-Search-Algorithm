@@ -1,7 +1,8 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name:   YENUGANTI PRATHYUSHA     </h3>
 <h3>Register Number: 212223240187        </h3>
-<H3>Aim:</H3>
+## Aim
+
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 </p>
